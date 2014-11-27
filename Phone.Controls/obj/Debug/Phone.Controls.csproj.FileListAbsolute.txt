@@ -1,0 +1,5 @@
+C:\Users\Blue\Desktop\tmp\Phone.Controls\Bin\Debug\Phone.Controls.dll
+C:\Users\Blue\Desktop\tmp\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+C:\Users\Blue\Desktop\tmp\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+C:\Users\Blue\Desktop\tmp\Phone.Controls\obj\Debug\Phone.Controls.dll
+C:\Users\Blue\Desktop\tmp\Phone.Controls\obj\Debug\Phone.Controls.pdb

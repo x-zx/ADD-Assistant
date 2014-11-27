@@ -1,0 +1,5 @@
+C:\Users\Blue\Documents\GitHub\amCharts-Quick-Charts\QuickChartsWP\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Blue\Documents\GitHub\amCharts-Quick-Charts\QuickChartsWP\Bin\Debug\AmCharts.Windows.QuickCharts.WP.pdb
+C:\Users\Blue\Documents\GitHub\amCharts-Quick-Charts\QuickChartsWP\obj\Debug\AmCharts.Windows.QuickCharts.WP.g.resources
+C:\Users\Blue\Documents\GitHub\amCharts-Quick-Charts\QuickChartsWP\obj\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Blue\Documents\GitHub\amCharts-Quick-Charts\QuickChartsWP\obj\Debug\AmCharts.Windows.QuickCharts.WP.pdb

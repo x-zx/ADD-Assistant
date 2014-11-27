@@ -1,0 +1,58 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="ADD_Assistant.Page5"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" />
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="ADD Assistant" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="欢迎使用" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="271*"/>
+                <ColumnDefinition Width="185*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="USER" HorizontalAlignment="Left" Height="72" Margin="0,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="456" Background="{x:Null}" BorderThickness="0,0,0,1" Grid.ColumnSpan="2" KeyDown="Name_KeyDown" InputScope="Default">
+                <TextBox.Foreground>
+                    <SolidColorBrush Color="#FFCCCCCC"/>
+                </TextBox.Foreground>
+            </TextBox>
+            <TextBlock HorizontalAlignment="Left" Margin="10,77,0,0" TextWrapping="Wrap" Text="用户" VerticalAlignment="Top" FontSize="24" Foreground="{StaticResource PhoneTextLowContrastBrush}" Height="32" Width="120"/>
+            <Button x:Name="BtnOK" Content="开始" Margin="0,504,0,10"   BorderThickness="0" Background="#FF349FDC" VerticalAlignment="Center" Height="93" Click="BtnOK_Click" Grid.ColumnSpan="2"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,206,0,0" TextWrapping="Wrap" Text="密码" VerticalAlignment="Top" FontSize="24" Foreground="{StaticResource PhoneTextLowContrastBrush}" Height="32" Width="144"/>
+            <TextBlock x:Name="reg" HorizontalAlignment="Left" Margin="247,371,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="注册账户" Width="160" Tap="reg_Tap" TextDecorations="Underline" TextAlignment="Center" Height="36" Grid.ColumnSpan="2">
+                <TextBlock.Foreground>
+                    <SolidColorBrush Color="{StaticResource PhoneBorderColor}"/>
+                </TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock x:Name="DemoAccount" HorizontalAlignment="Left" Margin="48,371,0,0" TextWrapping="Wrap" Text="使用演示账户" Width="144" Tap="DemoAccount_Tap" TextDecorations="Underline" Height="36" TextAlignment="Center" VerticalAlignment="Top">
+                <TextBlock.Foreground>
+                    <SolidColorBrush Color="{StaticResource PhoneBorderColor}"/>
+                </TextBlock.Foreground>
+            </TextBlock>
+            <PasswordBox x:Name="PW" HorizontalAlignment="Left" Margin="0,243,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="456" BorderThickness="0,0,0,1" Background="{x:Null}" Foreground="#FFCCCCCC" KeyDown="PW_KeyDown"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

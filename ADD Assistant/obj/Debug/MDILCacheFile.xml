@@ -1,0 +1,20 @@
+﻿<xapCache source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\ADD_Assistant_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/27 15:26:20">
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.dll" archivePath="ADD Assistant.dll" lastWriteTime="2014/11/27 15:26:18" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\en-US\ADD Assistant.resources.dll" archivePath="en-US\ADD Assistant.resources.dll" lastWriteTime="2014/11/27 15:26:19" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/7/28 8:07:38" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/7/28 8:07:38" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/7/28 8:07:38" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/7/28 8:07:38" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/7/28 8:07:38" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/7/28 8:07:38" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\img\001.png" archivePath="img\001.png" lastWriteTime="2013/5/21 15:34:46" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/8/29 17:11:10" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/9/3 7:39:18" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\AmCharts.Windows.QuickCharts.WP.dll" archivePath="AmCharts.Windows.QuickCharts.WP.dll" lastWriteTime="2014/8/29 15:04:44" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="2014/8/20 14:25:02" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\Phone.Controls\Bin\Debug\Phone.Controls.dll" archivePath="Phone.Controls.dll" lastWriteTime="2014/8/29 10:37:28" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\ScrollableTextBoxTest.dll" archivePath="ScrollableTextBoxTest.dll" lastWriteTime="2014/8/29 10:39:14" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="2014/8/20 14:25:02" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\img\256x256_metro_wpicon.png" archivePath="img\256x256_metro_wpicon.png" lastWriteTime="2014/9/3 7:39:18" />
+  <file source="D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/9/3 8:22:54" />
+</xapCache>

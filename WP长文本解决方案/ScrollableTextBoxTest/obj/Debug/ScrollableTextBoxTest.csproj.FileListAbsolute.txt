@@ -1,0 +1,16 @@
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\ApplicationIcon.png
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\Background.png
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\ScrollableTextBoxTest.dll
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\ScrollableTextBoxTest.pdb
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\AppManifest.xaml
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\ScrollableTextBoxTest_Debug_AnyCPU.xap
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\Phone.Controls.dll
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\Bin\Debug\Phone.Controls.pdb
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\ScrollableTextBoxTest.csprojResolveAssemblyReference.cache
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\App.g.cs
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\MainPage.g.cs
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\ScrollableTextBoxTest.g.resources
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\ScrollableTextBoxTest.dll
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\ScrollableTextBoxTest.pdb
+C:\Users\Blue\Desktop\tmp\ScrollableTextBoxTest\obj\Debug\XapCacheFile.xml

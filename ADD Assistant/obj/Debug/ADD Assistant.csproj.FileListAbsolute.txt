@@ -1,0 +1,76 @@
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\ADD Assistant.dll
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\ADD Assistant.pdb
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\AppManifest.xaml
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\ADD_Assistant_Debug_AnyCPU.xap
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\App.g.cs
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\MainPage.g.cs
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.g.resources
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD_Assistant.Resources.AppResources.resources
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.csproj.GenerateResource.Cache
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.dll
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.pdb
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\XapCacheFile.xml
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\Game1.g.cs
+c:\users\blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\Read.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\Question.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\Chart.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\en-US\ADD Assistant.resources.dll
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\Welcome.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD_Assistant.Resources.AppResources.en-US.resources
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\en-US\ADD Assistant.resources.dll
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\MyInf.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ArticleList.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.csprojResolveAssemblyReference.cache
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\obj\Debug\Browser.g.cs
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Phone.Controls.dll
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\ScrollableTextBoxTest.dll
+C:\Users\Blue\documents\visual studio 2013\Projects\ADD Assistant\ADD Assistant\Bin\Debug\Phone.Controls.pdb
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\ApplicationIcon.png
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\ADD Assistant.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\ADD Assistant.pdb
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\en-US\ADD Assistant.resources.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\AppManifest.xaml
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Properties\WMAppManifest.xml
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\ADD_Assistant_Debug_AnyCPU.xap
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Newtonsoft.Json.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Phone.Controls.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\ScrollableTextBoxTest.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Newtonsoft.Json.xml
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\Bin\Debug\Phone.Controls.pdb
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.csprojResolveAssemblyReference.cache
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\App.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\MainPage.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Game1.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Chart.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\MyInf.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ArticleList.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Browser.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Welcome.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Question.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Read.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.g.resources
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD_Assistant.Resources.AppResources.resources
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD_Assistant.Resources.AppResources.en-US.resources
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.csproj.GenerateResource.Cache
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\en-US\ADD Assistant.resources.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.dll
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\ADD Assistant.pdb
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\XapCacheFile.xml
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Setting.g.cs
+D:\DATA\Code\Windows Phone\ADD Assistant\ADD Assistant\obj\Debug\Game2.g.cs

@@ -1,0 +1,60 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="ADD_Assistant.Page4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:amq="clr-namespace:AmCharts.Windows.QuickCharts;assembly=AmCharts.Windows.QuickCharts.WP"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28"/>
+        <phone:Pivot x:Name="pivot" Grid.Row="1" Title="图表" SelectionChanged="Pivot_SelectionChanged">
+            <phone:PivotItem CacheMode="{x:Null}" Header="阅读训练">
+                <!---->
+ <amq:SerialChart x:Name="chart1" DataSource="{Binding Data}" CategoryValueMemberPath="cat1"  
+                         AxisForeground="White"  
+                         PlotAreaBackground="Black"  
+                             MinimumCategoryGridStep="50"  
+                         GridStroke="DarkGray">  
+                <amq:SerialChart.Graphs>  
+                    <amq:LineGraph ValueMemberPath="val1" Title="阅读分数" Brush="#FF00A2FF" />  
+                    <amq:ColumnGraph ValueMemberPath="val2" Title=" " Visibility="Collapsed" ColumnWidthAllocation="0.4" Brush="White" />  
+                    <amq:AreaGraph ValueMemberPath="val3" Title=" " Visibility="Collapsed" Brush="White" />  
+                </amq:SerialChart.Graphs>  
+            </amq:SerialChart>  
+                <!---->
+            </phone:PivotItem>
+            <phone:PivotItem CacheMode="{x:Null}" Header="游戏">
+                <!---->
+<amq:SerialChart x:Name="chart2" DataSource="{Binding Data}" CategoryValueMemberPath="cat1"  
+                         AxisForeground="White"  
+                         PlotAreaBackground="Black"  
+                             MinimumCategoryGridStep="50"  
+                         GridStroke="DarkGray">  
+                <amq:SerialChart.Graphs>  
+                    <amq:LineGraph ValueMemberPath="val1" Title="游戏分数" Brush="#FF82EA3A" />  
+                    <amq:ColumnGraph ValueMemberPath="val2" Title=" " Visibility="Collapsed"  ColumnWidthAllocation="0.4" Brush="White" />  
+                    <amq:AreaGraph ValueMemberPath="val3" Title=" " Visibility="Collapsed" Brush="White" />  
+                </amq:SerialChart.Graphs>  
+            </amq:SerialChart>  
+                <!---->
+            </phone:PivotItem>
+        </phone:Pivot>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+    </Grid>
+
+
+</phone:PhoneApplicationPage>
